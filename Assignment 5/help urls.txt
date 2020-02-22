@@ -1,5 +1,0 @@
-https://www.geeksforgeeks.org/classifying-data-using-support-vector-machinessvms-in-python/
-
-https://www.datacamp.com/community/tutorials/svm-classification-scikit-learn-python
-
-https://scikit-learn.org/stable/auto_examples/svm/plot_iris.html
